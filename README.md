@@ -25,7 +25,7 @@
    - Скопируйте URL репозитория.
    - Откройте терминал и выполните команду `git clone <URL>` (вставьте скопированный URL).
 
-   Или просто [скачайте ZIP архив](#) и распакуйте его.
+   Или просто [скачайте ZIP архив](https://github.com/Chu4hel/rephrasewt/archive/refs/heads/main.zip) и распакуйте его.
 
 ## Создание файла конфигурации
 
@@ -43,8 +43,8 @@
    ```python
    # config.py
 
-   # Путь к файлу menu.csv
-   MENU_FILE_PATH = "путь_к_папке_с_игрой/menu.csv"
+   # Путь к папке игры
+   MENU_FILE_PATH = "C:\Games\WarThunder" #Измените на свой
 
    # Фразы для замены
    REPLACE_PHRASES = {
