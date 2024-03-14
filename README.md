@@ -44,7 +44,7 @@
    # config.py
 
    # Путь к файлу menu.csv
-   MENU_FILE_PATH = "путь_к_вашему_файлу/menu.csv"
+   MENU_FILE_PATH = "путь_к_папке_с_игрой/menu.csv"
 
    # Фразы для замены
    REPLACE_PHRASES = {
