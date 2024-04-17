@@ -17,6 +17,7 @@
    - Убедитесь, что установлен флажок "Add Python to PATH".<details><summary>Картинка где ставить галочку</summary>![alt text](https://github.com/Chu4hel/rephrasewt/assets/106600877/78f68a40-ea4c-4c61-8f6d-3e2ce5c58af4)</details>
    - Нажмите "Install Now" и следуйте инструкциям установщика.
    - После установки откройте терминал (Command Prompt в Windows, Terminal в macOS и Linux) и выполните команду `python --version` для проверки установки.
+(Для windows - сочетание клавиш CTRL + R . Затем нужно ввести в открывшееся окно "cmd"
 
 ## Клонирование репозитория
 
